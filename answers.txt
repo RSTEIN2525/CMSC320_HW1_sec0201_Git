@@ -9,3 +9,7 @@ Answer: Quantitative Finance is an excellent example; downloading time series of
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge creates a new merge commit linking branches, preserving order, names, ... of original commits to each branch; resulting to a non-linear, but accurate reflection of branches divergence, and reconvergence. Alternatively, rebase rewrites history, committing as new commits with new ids, creating a clean, linear history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I've always wanted an excuse to learn AI/ML, outside of school i'm very busy with work, and don't have a lot of time to explore non-core intersts, so having a great excuse to deepen a path of interst for me is really exciting! Espeically since I know so little; my only background is the Andrej Karpathy Neural Network Zero to Hero Video series on youtube.
