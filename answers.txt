@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Keeping history of changes, enabling portability between machines, allowing collaboration in a shared codebase via commits, pr's, etc. 
+
