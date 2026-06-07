@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Keeping history of changes, enabling portability between machines, allowing collaboration in a shared codebase via commits, pr's, etc.
@@ -6,4 +5,7 @@ Answer: Keeping history of changes, enabling portability between machines, allow
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Quantitative Finance is an excellent example; downloading time series of different assets in csv's, loading them in pandas, performing endless analysis, running indicators with panda's technical analysis library. Additionally, time series can be imported to a machinelearning library like pytorch, to analyze, attempt to find patterns, create neural networks simulating, etc.
->>>>>>> q2
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge creates a new merge commit linking branches, preserving order, names, ... of original commits to each branch; resulting to a non-linear, but accurate reflection of branches divergence, and reconvergence. Alternatively, rebase rewrites history, committing as new commits with new ids, creating a clean, linear history.
