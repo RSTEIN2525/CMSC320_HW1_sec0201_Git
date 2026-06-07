@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Quantitative Finance is an excellent example; downloading time series of different assets in csv's, loading them in pandas, performing endless analysis, running indicators with panda's technical analysis library. Additionally, time series can be imported to a machinelearning library like pytorch, to analyze, attempt to find patterns, create neural networks simulating, etc.
+
