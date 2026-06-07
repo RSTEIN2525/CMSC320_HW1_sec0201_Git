@@ -1,15 +1,15 @@
 Q1: Why might we consider using Git?
 
-Answer: Keeping history of changes, enabling portability between machines, allowing collaboration in a shared codebase via commits, pr's, etc.
+Answer: Keeping a history of changes, enabling portability between machines, and allowing collaboration in a shared codebase via commits, PRs, and more.
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Quantitative Finance is an excellent example; downloading time series of different assets in csv's, loading them in pandas, performing endless analysis, running indicators with panda's technical analysis library. Additionally, time series can be imported to a machinelearning library like pytorch, to analyze, attempt to find patterns, create neural networks simulating, etc.
+Answer: Quantitative finance is the first example that comes to mind: downloading time series of different assets in CSVs, loading them in pandas, performing analysis, and importing technical indicators—including but not limited to the RSI, MACD, and PSAR—with pandas' technical analysis library would be a solid use case. Additionally, in the past couple years, I've heard of substantial shifts to machine learning in finance; importing time series as tensors in PyTorch and building models and indicators would also be an intersting exercise!
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merge creates a new merge commit linking branches, preserving order, names, ... of original commits to each branch; resulting to a non-linear, but accurate reflection of branches divergence, and reconvergence. Alternatively, rebase rewrites history, committing as new commits with new ids, creating a clean, linear history.
+Answer: Merge creates a new merge commit linking branches, preserving order, names, ... of original commits to each branch, resulting in a non-linear but accurate reflection of branches' divergence and reconvergence. Alternatively, rebase rewrites history, committing as new commits with new IDs, creating a clean, linear history.
 
 Q4: What are you looking forward to this semester?
 
-Answer: I've always wanted an excuse to learn AI/ML, outside of school i'm very busy with work, and don't have a lot of time to explore non-core intersts, so having a great excuse to deepen a path of interst for me is really exciting! Espeically since I know so little; my only background is the Andrej Karpathy Neural Network Zero to Hero Video series on youtube.
+Answer: I've always wanted an excuse to learn data analysis and AI/ML but have never had one until now. Outside of school I'm very busy with work and don't have a lot of time to explore non-strictly-necessary fields, so having a great excuse—course credit—to deepen a path of interest for me is a dream come true. Especially since I know so little, I've spent most of my software career first making video games, then building web apps; my only background in data analysis and AI/ML specifically is a few custom trading indicators I've developed using pandas and the Andrej Karpathy Neural Network Zero to Hero video series on YouTube.
